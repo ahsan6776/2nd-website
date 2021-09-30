@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 5%;
+    float: left;
+}
+h1{
+    font-size: 40px;
+}
+p{
+   font-size: 15px;
+   line-height: 30px;
+}
+.defalt-btn{
+    text-decoration: none;
+    color: white;
+    background: #ed4b73;
+    font-size: 15px;
+    padding: 10px 25px;
+    border-radius: 5px;
+    
+}
+span{
+    color: #ed4b73;
+}
+.bg-color1{
+    background-image: url(./personal-website/header-bg.png);
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 600px;
+}
+.three-vag{
+      float: left;
+      width: 30%;
+      padding-left: 2%;
+}
+.three-vag img{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(./personal-website/latest-work-bg.png);
+}
+.margin-dibo{
+    margin-bottom: 70px;
+    text-align: center;
+}
+.center-korbo{
+    text-align: center;
+}
+.vangbo-word{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+h4{
+    padding-top: 10px;
+}
+h2{
+    padding-bottom: 10px;
+}
+.color-korbo{
+    background-color: #ed4b73;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+}
